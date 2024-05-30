@@ -1,0 +1,171 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: #daedef;
+}
+
+.Titulo {
+    text-align: center;
+    background-color: rgb(233, 201, 113);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-size: 40px;
+    font-family:  'Gill Sans MT';
+    border: dotted 5px #ea4984 ;
+}
+.borde1 {
+  border: white 5px inset #7e91dc;
+  text-align: center;
+}
+.Inf {
+    text-align: center;
+    background-color: rgb(187, 70, 70);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 40px;
+}
+.Inf1 {
+  background-color: #ffffff;
+  width: auto;
+  
+  text-align:none;
+  padding: 5px;
+  font-size: 19px;
+}
+.Inf2 {
+  background-color: #ffffff;
+    width: auto;
+  
+    text-align:none;
+    padding: 5px;
+    font-size: 19px;
+  }
+  .Inf3 {
+  background-color: #ffffff;
+    width: auto;
+    list-style-type: none;
+    text-align:none;
+    padding: 5px;
+  }
+  nav li {
+    display: 15px;
+    text-align: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    width: 150px;
+  }
+.borde3 {
+  border:rgb(4, 25, 44) 10px double;
+  text-align: center;
+  margin:15px;
+}
+.menu-secundario{
+    background-color: rgb(145, 142, 142); 
+    width: 100%;
+    list-style-type: none;
+  text-align: center;
+    }
+    .menu-secundario a {
+        display: block;
+        text-align:center;
+        color: black;
+        margin-bottom: 5px;
+        display:inline-flex;
+        text-decoration: none;
+        padding: 5px;
+        width: 150px;
+    }
+
+    .img{
+      padding: 50px;
+      width: 1100px;
+    }
+    .img1 {
+      padding: 50px;
+      width: 1100px;
+    }
+.AcusticaB{
+width: auto;
+  list-style-type: none;
+  text-align:left;
+  padding: 10px;
+  font-size: 20px;
+}
+.borde4{
+  border: 25px double;
+  margin:15px;
+ 
+ }
+.ElectronicaB{
+  width: auto;
+    list-style-type: none;
+    text-align:left;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .borde1{
+    border: 25px double;
+    margin:5px;
+  }
+  .borde5{
+    border: 25px double;
+    margin:15px;
+   
+   }
+  .ElectroAcústicaB{
+    width: auto;
+      list-style-type: none;
+      text-align:left;
+      padding: 10px;
+      font-size: 20px;
+  }
+
+  .Subtitulo{
+    text-align: center;
+    background-color: rgb(54, 152, 209);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    border:25px double #c268c2;
+    cursor: pointer;
+  }
+  .menu{
+    padding: 20px;
+    border: 5px solid rgb(165, 161, 161);
+    border-radius: 10px;
+    width: 75%;
+    list-style-type: none;
+    text-align:none;
+    font-size: 20px;
+    
+  }
+
+  .INF{
+   
+    padding: 15px;
+    background-color: rgb(184, 223, 235);
+  color: white;
+    border: 5px solid black;
+    border-radius: 30px;
+    width: 75%;
+    list-style-type: none;
+    text-align:none;
+  }
+  .Vol{
+    width: 75%;
+    list-style-type: none;
+    text-align:none;
+    padding: 15px;
+    background-color: rgb(255, 178, 105);
+  color: white;
+    border: 5px solid black;
+    border-radius: 30px;
+  }

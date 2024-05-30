@@ -1,0 +1,143 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: #ffd2d9;
+}
+.borde  {
+  border: 15px double #4e99ee;
+  text-align: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.Titulo {
+    text-align: center;
+    background-color: rgb(241, 67, 197);
+    color: rgb(255, 255, 255);
+    padding: 25px;
+}
+.Inf {
+    text-align: center;
+    background-color: rgb(230, 185, 25);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border:dotted 5px #daedef ;
+}
+.Inf1 {
+  background-color: rgb(255, 255, 255);  
+  width: auto;
+  list-style-type: none;
+  text-align: auto;
+  padding: 5px;
+}
+.Inf2 {
+    background-color: rgb(255, 255, 255);  
+    width: auto;
+    list-style-type: none;
+    text-align:none;
+    padding: 5px;
+  
+  }
+nav li {
+    display: 15px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    width: 150px;
+}
+.borde1{
+  border: dashed 10px #6e30c0 ;
+  text-align: center;
+  margin:15px;
+}
+.menu {
+  background-color: #f2ffb9;
+  border: 20px;
+  border-radius: 5px;
+  width: auto;
+  text-align: center;
+}
+.menu-secundario{
+    background-color: rgb(214, 231, 119); 
+    width: 100%;
+    list-style-type: none;
+  text-align: center;
+    }
+    .menu-secundario a {
+        display: block;
+        text-align:center;
+        color: black;
+        margin-bottom: 5px;
+        display:inline-flex;
+        text-decoration: none;
+        padding: 1px;
+        width: 150px;
+    }
+    
+.img1 {
+  padding: 50px;
+  width: 1400px;
+}
+
+.borde2{
+  border:double 10px #5adc76;
+}
+.AcusticoB{
+  width: auto;
+    list-style-type: none;
+    text-align:left;
+    padding: 10px;
+  }
+  .borde3{
+    border:solid 10px #f085ea;
+  }
+  .ElectricoB{
+    width: auto;
+      list-style-type: none;
+      text-align:left;
+      padding: 10px;
+  }
+  .borde4{
+    border:dotted  10px #5aa4dc;
+  }
+  .Subtitulo{
+    text-align: center;
+    background-color: rgb(255, 93, 29);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    border: 25px double;
+  }
+  .menu{
+    padding: 20px;
+    border: 5px solid rgb(165, 161, 161);
+    border-radius: 10px;
+    width: 75%;
+    list-style-type: none;
+    text-align:none;
+    font-size: 20px;
+    
+  }
+  .INF{
+   
+    padding: 15px;
+   color: #6633dd; 
+   background-color: rgb(175, 221, 230);
+    border: 5px solid black;
+    border-radius: 30px;
+    width: 75%;
+    list-style-type: none;
+    text-align:none;
+  }
+  .Vol{
+    width: 75%;
+    list-style-type: none;
+    text-align:none;
+    padding: 15px;
+    background-color: rgb(177, 224, 233);
+    border: 5px solid black;
+    border-radius: 30px;
+  }
